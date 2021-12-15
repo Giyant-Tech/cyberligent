@@ -15,7 +15,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ## Pages & Components 
 > pages
 
-- index: This is the landing page of the app, here you can find a hero/landing component and the gallery of pet bio's loaded from a local data storage (use the logo to navigate home)
+- index: This is the landing page of the app, here you can find a hero/landing component and the gallery of all reported scams(use the logo to navigate home)
 
 - bio: In the bio page you will find a list of pet bios listed, rendered from the contentful CMS API, here the name, age, role/title, and the bio of pets are listed
 
