@@ -44,5 +44,29 @@ No use of environment variables
 Links
 
 :TO_DO:
-- [ ] : Create a design of the application
-- [ ]
+- [ ] : create a design of the application
+- [ ] : implement nextAuth
+- [ ] : create a navbar
+- [ ] : create a landuing page
+- [ ] : ceate a CMS
+- [ ] : buy the site's domain
+- [ ] : 
+
+user 
+|
+v
+site
+|
+v
+landing page:
+- list of popular scam post and their votings
+- search button to search scams using a keyword
+- login button
+- links to other pages
+
+when logged in
+|
+v
+- can comment(give testimony)
+- upvote
+- submit a scam to be reviewed and shared
