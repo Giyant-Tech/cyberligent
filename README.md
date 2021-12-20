@@ -47,8 +47,9 @@ Links
 Discussion
 - Styling library: Chakra vs Tailwind or BOTH ?
     : https://www.youtube.com/watch?v=gYARRR6j5wg
-    
+
 :TO_DO:
+- [ ] : set up test netlify url
 - [ ] : create a design of the application
 - [ ] : implement nextAuth
 - [ ] : create a navbar
