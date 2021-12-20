@@ -45,7 +45,7 @@ Links
 - 
 
 Discussion
-- Styling library: Chakra vs Tailwind or BOTH ?
+- Styling library: Chakra VS Tailwind or BOTH?
     : https://www.youtube.com/watch?v=gYARRR6j5wg
 
 :TO_DO:
