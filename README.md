@@ -42,6 +42,10 @@ No use of environment variables
 
 
 Links
+- 
+
+Discussion
+- Styling library: Chakra vs Tailwind or BOTH ?
 
 :TO_DO:
 - [ ] : create a design of the application
