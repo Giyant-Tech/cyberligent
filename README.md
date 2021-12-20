@@ -46,7 +46,8 @@ Links
 
 Discussion
 - Styling library: Chakra vs Tailwind or BOTH ?
-
+    : https://www.youtube.com/watch?v=gYARRR6j5wg
+    
 :TO_DO:
 - [ ] : create a design of the application
 - [ ] : implement nextAuth
