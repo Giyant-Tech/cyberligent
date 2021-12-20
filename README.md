@@ -49,8 +49,10 @@ Discussion
     : https://www.youtube.com/watch?v=gYARRR6j5wg
 
 :TO_DO:
-- [ ] : set up test netlify url
-- [ ] : create a design of the application
+- [x] : set up test netlify url
+- [ ] : create a design of the application : IN PROGRESS
+- [ ] : navbar colours
+- [ ] : fix logo position & size
 - [ ] : implement nextAuth
 - [ ] : create a navbar
 - [ ] : create a landuing page
