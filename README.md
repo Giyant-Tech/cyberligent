@@ -51,11 +51,12 @@ Discussion
 :TO_DO:
 - [x] : set up test netlify url
 - [ ] : create a design of the application : IN PROGRESS
+- [ ] : create a navbar
 - [ ] : navbar colours
 - [ ] : fix logo position & size
-- [ ] : implement nextAuth
-- [ ] : create a navbar
 - [ ] : create a landuing page
+- [ ] : home grid cards
+- [ ] : implement nextAuth
 - [ ] : ceate a CMS
 - [ ] : buy the site's domain
 - [ ] : 

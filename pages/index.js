@@ -14,29 +14,31 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main >
-        <nav class="flex justify-between flex-wrap bg-teal-500 p-6">
-          <div class="flex items-center flex-shrink-0 text-white mr-6">
+      <main className='bg-[#355B7D]'>
+        <nav  className="bg-[#355B7D]	flex justify-between flex-wrap bg-teal-500 p-6">
+          <div className="flex items-center flex-shrink-0 text-white mr-6">
             <a
               href="#"
-              class="inline-block text-sm px-4 py-2 leading-none border rounded-2xl text-white border-white hover:border-transparent hover:text-teal-500 hover:bg-white mt-4 lg:mt-0">
+              className="inline-block text-sm px-4 py-2 leading-none border rounded-2xl text-white border-white hover:border-transparent hover:text-teal-500 hover:bg-white mt-4 lg:mt-0">
               sing in
             </a>
           </div>
 
 
-          <div class="flex block text-white mr-0">
-            <span class="font-semibold text-xl tracking-tight pr-2">cyberligeng</span>
-            <img
-              class="fill-current h-9 w-9 mr-0"
-              width="54"
-              height="54"
-              viewBox="0 0 54 54"
-              xmlns="http://www.w3.org/2000/svg"
-              src="https://img.icons8.com/color/48/000000/security-configuration.png" />
+          <div className="flex block text-white mr-0">
+            <span className="font-semibold text-xl tracking-tight pr-2">cyberligent</span>
+            <Image
+              className="fill-current h-8 w-8 mr-0"
+              src="https://img.icons8.com/color/48/000000/security-configuration.png"
+              alt="Next.js logo"
+              width={30}
+              height={30} />
           </div>
         </nav>
 
+        <section>
+          hello Word
+        </section>
       </main>
 
       <footer className={styles.footer}>
