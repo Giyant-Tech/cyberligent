@@ -50,7 +50,7 @@ export default function Home() {
           Powered by{' '}
           {/* <span className={styles.logo}>
             <Image src="/vercel.svg" alt="Vercel Logo" width={72} height={16} />
-          </span> */}Two Curios Geeks
+          </span> */}Two Curiuos Geeks
         </a>
       </footer>
     </div>
